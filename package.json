@@ -1,9 +1,9 @@
 {
-  "name": "oceanic-next",
+  "name": "fathom",
   "theme": "syntax",
-  "version": "0.1.2",
-  "description": "Based on the Sublime Text theme",
-  "repository": "https://github.com/smlombardi/oceanic-next-syntax.git",
+  "version": "0.1.0",
+  "description": "Gray",
+  "repository": "https://github.com/jeffpamer/fathom-syntax.git",
   "license": "MIT",
   "engines": {
     "atom": ">=0.174.0 <2.0.0"
